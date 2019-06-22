@@ -6,6 +6,7 @@ Created on Thu Jun 20 20:53:22 2019
 @author: erik
 """
 
+# Simple sieve
 upperLimit = 10**4
 primeList = list( range(2,upperLimit+1))
 
